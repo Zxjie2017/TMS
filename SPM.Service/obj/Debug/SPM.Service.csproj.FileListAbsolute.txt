@@ -1,0 +1,12 @@
+C:\Project\SPM\SPM\SPM.Service\obj\Debug\SPM.Service.csprojResolveAssemblyReference.cache
+C:\Project\SPM\SPM\SPM.Service\obj\Debug\SPM.Service.csproj.CoreCompileInputs.cache
+C:\Project\SPM\SPM\SPM.Service\bin\Debug\SPM.Service.dll
+C:\Project\SPM\SPM\SPM.Service\bin\Debug\SPM.Service.pdb
+C:\Project\SPM\SPM\SPM.Service\obj\Debug\SPM.Service.dll
+C:\Project\SPM\SPM\SPM.Service\obj\Debug\SPM.Service.pdb
+G:\tool\SPM\SPM.Service\bin\Debug\SPM.Service.dll
+G:\tool\SPM\SPM.Service\bin\Debug\SPM.Service.pdb
+G:\tool\SPM\SPM.Service\obj\Debug\SPM.Service.csprojAssemblyReference.cache
+G:\tool\SPM\SPM.Service\obj\Debug\SPM.Service.csproj.CoreCompileInputs.cache
+G:\tool\SPM\SPM.Service\obj\Debug\SPM.Service.dll
+G:\tool\SPM\SPM.Service\obj\Debug\SPM.Service.pdb
